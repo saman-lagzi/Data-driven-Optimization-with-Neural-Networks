@@ -5,5 +5,6 @@ You can import the data, standardize and split it into train and vlidation sets 
 Finally, after arriving at a trained neural network, for a given covariate value, you can compute the gradient of its prediction value with respect to the decision input, and optimize its prediction value.
 The necessary packages are all imported in the code.
 Please email saman.lagzi@rotman.utoronto.ca for correspondance regarding the project.
-![Uploading image.png…]()
+
+# A synopsis of the Framework of Data-driven-Optimization-with-Neural-Networks
 ![Framework](https://user-images.githubusercontent.com/113304575/189544424-306c0d05-0c9e-49fe-8ef8-0e9c8aae6369.png)
