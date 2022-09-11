@@ -1,5 +1,5 @@
 # Data-driven-Optimization-with-Neural-Networks
-This code and data set are a companion to the paper titled "Using Neural Networks To Guide Data-Driven Operational Decisions".
+The code and data set are a companion to the paper titled "Using Neural Networks To Guide Data-Driven Operational Decisions".
 The code is provided in the form of a ipynb Python notebook. While it allows you to generate your own data, a data set is also provided in the form of a csv file. 
 You can import the data, standardize and split it into train and vlidation sets and train a neural network with it.
 Finally, after arriving at a trained neural network, for a given covariate value, you can compute the gradient of its prediction value with respect to the decision input, and optimize its prediction value.
